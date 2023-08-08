@@ -1,2 +1,2 @@
 # randomized-activity
-practice w/ retrieving and displaying data using APIs using https://bored-api.appbrewery.com/
+practice w/ retrieving and displaying data using APIs (https://bored-api.appbrewery.com/)
